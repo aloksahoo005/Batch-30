@@ -8,7 +8,7 @@ main()
 	a = 10;
 	b = 20 ;
 	c = a+b;
-	printf("The addition of two nos");
+	printf("The addition of two nos"%d,c);
 	printf("DevOPs TRaining");
 
 }
